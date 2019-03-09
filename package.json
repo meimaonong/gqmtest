@@ -1,0 +1,37 @@
+{
+  "name": "gqmtest",
+  "version": "1.0.0",
+  "description": "gpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meimaonong/gqmtest.git"
+  },
+  "dependencies": {
+    "apollo-link-http": "^1.5.11",
+    "apollo-server-koa": "^2.4.0",
+    "axios": "^0.18.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "graphql": "^14.1.1",
+    "graphql-tools": "^4.0.4",
+    "ip": "^1.1.5",
+    "jsonwebtoken": "^8.5.0",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0",
+    "validator": "^10.11.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meimaonong/gqmtest/issues"
+  },
+  "homepage": "https://github.com/meimaonong/gqmtest#readme"
+}
